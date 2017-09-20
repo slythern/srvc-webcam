@@ -35,7 +35,7 @@ main :-
     ( current_prolog_flag(executable, EXE),
       sub_atom(EXE,_B,_L,0,'avc.exe'),
       beep,
-      status('> done, sleeping for 0 seconds before halt.',display),
+      status('> done, sleeping for 10 seconds before halt.',display),
       logfile(close),
       sleep(10),
       halt
