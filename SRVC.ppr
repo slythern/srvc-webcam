@@ -10,28 +10,26 @@ AbsolutePath=0
 FileFormat=0
 ProjectFilesOnly=0
 [Project tree]
-AVC
+SRVC
 	+Folder
 		pl.ini
-		AVC.pl
+		SRVC.pl
 		arity32.pl
 		WU.bat
-		X:\Archive\Terry_Lappy_Docs\Prolog\eoc\eoc.pl
 		logfile.log
 		_logfile.log
 		..\..\..\..\Program Files (x86)\swipl\library\sgml.pl
 		avc.pl_logfile.log
 [Open project files]
-0=AVC.pl
+0=SRVC.pl
 1=arity32.pl
 2=pl.ini
 3=..\..\..\..\Program Files (x86)\swipl\library\sgml.pl
-4=X:\Archive\Terry_Lappy_Docs\Prolog\eoc\eoc.pl
-5=avc.pl_logfile.log
+4=srvc.pl_logfile.log
 [Selected Project Files]
 Main=
-Selected=AVC.pl
-[AVC.pl]
+Selected=SRVC.pl
+[SRVC.pl]
 TopLine=7
 Caret=46,10
 [arity32.pl]
@@ -43,9 +41,6 @@ Caret=31,147
 [..\..\..\..\Program Files (x86)\swipl\library\sgml.pl]
 TopLine=525
 Caret=98,525
-[X:\Archive\Terry_Lappy_Docs\Prolog\eoc\eoc.pl]
-TopLine=107
-Caret=1,107
-[avc.pl_logfile.log]
+[srvc.pl_logfile.log]
 TopLine=50
 Caret=1,92
