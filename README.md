@@ -1,2 +1,2 @@
-# alpine_visitor_center
-Down load current image from RMNP Alpine Visitor Center webcam
+# SRVC
+Down load current image from South Rim Black Canyon of the Gunnison Visitor Center webcam
